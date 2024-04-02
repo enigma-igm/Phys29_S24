@@ -26,11 +26,13 @@ After the 30 minutes are up, you can use AI tools to assist you. If you are usin
         """
         This function takes an input x and returns f(x). 
 
-        Args:
+        Parameters
+        ----------
             x (float): 
               input value
 
-        Returns:
+        Returns
+        -------
             f (float): 
               output value f(x)
         """
